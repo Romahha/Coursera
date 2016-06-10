@@ -1,0 +1,28 @@
+{
+  "name": "ConFusion",
+  "authors": [
+    "Olga Solomakha <osromanenkoo@gmail.com>"
+  ],
+  "description": "Web for an awesome restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "ConFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
